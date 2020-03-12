@@ -1,0 +1,54 @@
+#Intresting Facts About Python That you must know
+#Let's see those facts
+#If you want to use braces {} like this in python
+#you will get an wried output let's see
+
+#from __future__ import braces
+
+#Here a beaytiful poem is there when you throw the command like this
+
+#import this
+
+#you can return multiple values from a function
+#thAT is mot possible in other languages like java
+
+'''
+def let():
+    return 40,'Nitya',99
+
+result=roll,name,marks=let()
+#You can also print desired option
+print(marks)
+'''
+'''
+#We can easly reverse a list using slicing
+
+inputs=[2,5,8,7,3]
+result=inputs[::-1]#this means start a loop from the last and print the result
+print(result)
+'''
+'''
+#if we throw the "import antigravity" command the we see
+#a animated explanation of antigravity let's see
+import antigravity
+'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
